@@ -15,9 +15,9 @@ SafeVault is an ASP.NET Core 8 application built as a security-focused course su
 
 ## Run in Visual Studio
 
-1. Open `SafeVault.sln` in Visual Studio 2026.
+1. Open `SafeVault.sln` in Visual Studio 2022.
 2. Let Visual Studio restore the NuGet packages.
-3. Select **SafeVault** as the startup project and press `Ctrl+F5` (or `F5`). The development profile uses HTTPS.
+3. Select **SafeVault** as the startup project and press `Ctrl+F5` (or `F5`). The development profile uses `https://localhost:7207`.
 4. Run tests from **Test > Test Explorer > Run All**.
 
 You can also run `dotnet test` from the solution folder.
