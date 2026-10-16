@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeVault", "SafeVault\SafeVault.csproj", "{6F0F15AB-E49C-4E3E-96B8-998E65BAAB90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeVault.Tests", "SafeVault.Tests\SafeVault.Tests.csproj", "{FDA35103-8AE6-4B69-9104-A821A2214EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F0F15AB-E49C-4E3E-96B8-998E65BAAB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0F15AB-E49C-4E3E-96B8-998E65BAAB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0F15AB-E49C-4E3E-96B8-998E65BAAB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0F15AB-E49C-4E3E-96B8-998E65BAAB90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA35103-8AE6-4B69-9104-A821A2214EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA35103-8AE6-4B69-9104-A821A2214EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA35103-8AE6-4B69-9104-A821A2214EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA35103-8AE6-4B69-9104-A821A2214EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
